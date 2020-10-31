@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson_1</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+</resources>
